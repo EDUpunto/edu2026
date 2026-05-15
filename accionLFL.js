@@ -85,6 +85,27 @@ cargarGeoJSONCorregido('cauceYASICA.geojson', estiloCauce, 'Cauce del río Yási
 cargarGeoJSONCorregido('cuencaCAMU.json', estiloCuenca, 'Cuenca del río Camú');
 cargarGeoJSONCorregido('cauceCAMU.json', estiloCauce, 'Cauce del río Camú');
 
+cargarGeoJSONCorregido('cuencaHAINA.json', estiloCuenca, 'Cuenca del río Haina');
+cargarGeoJSONCorregido('cauceHAINA.json', estiloCauce, 'Cauce del río Haina');
+cargarGeoJSONCorregido('cuencaNIGUA.json', estiloCuenca, 'Cuenca del río Nigua');
+cargarGeoJSONCorregido('cauceNIGUA.json', estiloCauce, 'Cauce del río Nigua');
+cargarGeoJSONCorregido('cuencaNIZAO.json', estiloCuenca, 'Cuenca del río Nizao');
+cargarGeoJSONCorregido('cauceNIZAO.json', estiloCauce, 'Cauce del río Nizao');
+cargarGeoJSONCorregido('cuencaOCOA.json', estiloCuenca, 'Cuenca del río Ocoa');
+cargarGeoJSONCorregido('cauceOCOA.json', estiloCauce, 'Cauce del río Ocoa');
+cargarGeoJSONCorregido('cuencaJURA.json', estiloCuenca, 'Cuenca del río Jura');
+cargarGeoJSONCorregido('cauceJURA.json', estiloCauce, 'Cauce del río Jura');
+cargarGeoJSONCorregido('cuencaTABARA.json', estiloCuenca, 'Cuenca del río Tábara');
+cargarGeoJSONCorregido('cauceTABARA.json', estiloCauce, 'Cauce del río Tábara');
+cargarGeoJSONCorregido('cuencaYSUR.json', estiloCuenca, 'Cuenca del río Yaque del Sur');
+cargarGeoJSONCorregido('cauceYSUR.json', estiloCauce, 'Cauce del río Yaque del Sur');
+cargarGeoJSONCorregido('cuencaNIZAITO.json', estiloCuenca, 'Cuenca del río Nizaito');
+cargarGeoJSONCorregido('cauceNIZAITO.json', estiloCauce, 'Cauce del río Nizaito');
+cargarGeoJSONCorregido('cuencaPEDERNALES.json', estiloCuenca, 'Cuenca del río Pedernales');
+cargarGeoJSONCorregido('caucePEDERNALES.json', estiloCauce, 'Cauce del río Pedernales');
+cargarGeoJSONCorregido('cuencaVIA.json', estiloCuenca, 'Cuenca del río Vía');
+cargarGeoJSONCorregido('cauceVIA.json', estiloCauce, 'Cauce del río Vía');
+
 // 6. MARCADORES ADICIONALES (Opcional - Ejemplo de puntos manuales)
 // Estos ya usan [Lat, Lng] por defecto en Leaflet
 //var marcadorDesembocadura = L.marker([18.48, -69.88]).addTo(map);
