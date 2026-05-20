@@ -70,7 +70,7 @@ cargarGeoJSONCorregido('cuencaSOCO.json', estiloCuenca, 'Cuenca del río Soco');
 cargarGeoJSONCorregido('cauceSOCO.json', estiloCauce, 'Cauce del río Soco');
 cargarGeoJSONCorregido('cuencaCUMAYASA.json', estiloCuenca, 'Cuenca del río Cumayasa');
 cargarGeoJSONCorregido('cauceCUMAYASA.json', estiloCauce, 'Cauce del río Cumayasa');
-cargarGeoJSONCorregido('cuencaROMANA.json', estiloCuenca, 'Cuenca del río Romana, Dulse o Salado');
+cargarGeoJSONCorregido('cuencaROMANA.json', estiloCuenca, 'Cuenca del río Romana, Dulce o Salado');
 cargarGeoJSONCorregido('cauceROMANA.json', estiloCauce, 'Cauce del río Romana, Dulce o Salado');
 cargarGeoJSONCorregido('cuencaCHAVON.json', estiloCuenca, 'Cuenca del río Chavón');
 cargarGeoJSONCorregido('cauceCHAVON.json', estiloCauce, 'Cauce del río Chavón');
@@ -136,7 +136,6 @@ cargarGeoJSONCorregido('cuencaVIA.json', estiloCuenca, 'Cuenca del río Vía');
 cargarGeoJSONCorregido('cauceVIA.json', estiloCauce, 'Cauce del río Vía');
 cargarGeoJSONCorregido('cuencaBANI.json', estiloCuenca, 'Cuenca del río Baní / Banilejo');
 cargarGeoJSONCorregido('cauceBANI.json', estiloCauce, 'Cauce del río Baní / Banilejo');
-
 
 cargarGeoJSONCorregido('cuencaARTIBONITO.json', estiloCuenca, 'Cuenca del río Artibonito');
 cargarGeoJSONCorregido('cauceARTIBONITO.json', estiloCauce, 'Cauce del río Artibonito');
